@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sucks</string>
+    <string-array name="tryme">
+        <item>he is</item>
+        <item>she is</item>
+        <item>it is</item>
+    </string-array>
+
+    <string name="Choose">Choose what u want</string>
+</resources>
